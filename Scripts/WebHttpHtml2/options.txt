@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User\Documents\VuGen\Scripts\WebHttpHtml2
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\user\documents\vugen\scripts\webhttphtml2\\logfile.log
+c:\users\user\documents\vugen\scripts\webhttphtml2\\combined_WebHttpHtml2.c
+c:\users\user\documents\vugen\scripts\webhttphtml2\\pre_cci.c

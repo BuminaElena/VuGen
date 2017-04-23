@@ -1,0 +1,17 @@
+[t17]
+FileName1=t17.htm
+URL1=http://192.168.99.100:8181/index.php
+Total=4
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t17_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_17.xml
+FileName2=t17_iphone.css
+URL2=http://192.168.99.100:8181/iphone.css
+FileName3=t17_title_x2.png
+URL3=http://192.168.99.100:8181/title_x2.png
+FileName4=t17_header-red.jpg
+URL4=http://192.168.99.100:8181/skins/header-red.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

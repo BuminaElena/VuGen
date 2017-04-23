@@ -1,0 +1,15 @@
+[t15]
+FileName1=t15.htm
+URL1=http://192.168.99.100:8181/index.php
+Total=3
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_iphone.css
+URL2=http://192.168.99.100:8181/iphone.css
+FileName3=t15_tablesort.min.html
+URL3=http://192.168.99.100:8181/js/tablesort.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

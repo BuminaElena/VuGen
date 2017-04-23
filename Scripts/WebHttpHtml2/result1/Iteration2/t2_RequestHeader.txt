@@ -1,0 +1,12 @@
+POST /index.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://192.168.99.100:8181/index.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.99.100:8181
+Cookie: uin=63d193e158fe4322ae219e1b6b1bf34d
+Content-Length: 21
+

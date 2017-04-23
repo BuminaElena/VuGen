@@ -1,0 +1,13 @@
+[t37]
+SnapshotXmlFile=snapshot_37.xml
+FileName1=t37.htm
+URL1=http://192.168.99.100:8181/index.php
+Total=3
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t37_ResponseHeader.txt
+ContentType=text/html
+FileName2=t37_iphone.css
+URL2=http://192.168.99.100:8181/iphone.css
+FileName3=t37_tablesort.min.html
+URL3=http://192.168.99.100:8181/js/tablesort.min.js

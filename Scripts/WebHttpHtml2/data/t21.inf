@@ -1,0 +1,13 @@
+[t21]
+SnapshotXmlFile=snapshot_21.xml
+FileName1=t21.htm
+URL1=http://192.168.99.100:8181/index.php
+Total=3
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+ContentType=text/html
+FileName2=t21_iphone.css
+URL2=http://192.168.99.100:8181/iphone.css
+FileName3=t21_tablesort.min.html
+URL3=http://192.168.99.100:8181/js/tablesort.min.js

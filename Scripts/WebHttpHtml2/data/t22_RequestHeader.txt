@@ -1,0 +1,10 @@
+GET /index.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: 192.168.99.100:8181
+DNT: 1
+Connection: Keep-Alive
+

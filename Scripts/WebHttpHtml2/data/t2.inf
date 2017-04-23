@@ -1,0 +1,13 @@
+[t2]
+FileName1=t2.htm
+URL1=http://192.168.99.100:8181/index.php
+Total=2
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_tablesort.min.html
+URL2=http://192.168.99.100:8181/js/tablesort.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

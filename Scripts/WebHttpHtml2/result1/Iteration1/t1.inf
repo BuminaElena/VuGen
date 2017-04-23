@@ -1,0 +1,17 @@
+[t1]
+URL3=http://192.168.99.100:8181/title_x2.png
+SnapshotXmlFile=snapshot_1.xml
+URL4=http://192.168.99.100:8181/iphone.css
+ContentType=text/html
+StepName=Url: index.php
+Total=4
+FileName1=t1.html
+FileName3=t1_1_title_x2.png
+FileName2=t1_2_header-red.jpe
+RequestHeaderFile=t1_RequestHeader.txt
+FileName4=t1_0_iphone.css
+SaveSnapshotResources=1
+ResponseHeaderFile=t1_ResponseHeader.txt
+RequestBodyFile=t1_RequestBody.txt
+URL1=http://192.168.99.100:8181/index.php
+URL2=http://192.168.99.100:8181/skins/header-red.jpg

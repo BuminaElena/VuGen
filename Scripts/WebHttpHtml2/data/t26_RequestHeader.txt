@@ -1,0 +1,15 @@
+POST /edit.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://192.168.99.100:8181/edit.php
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: multipart/form-data; boundary=---------------------------7e14ab360a58
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Host: 192.168.99.100:8181
+Content-Length: 2812
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: uin=4ee3c62ff48fb17b14c2d99d3a386a5f
+
